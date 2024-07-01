@@ -1,0 +1,162 @@
+[
+    {
+        "question": "Which HTML tag is used to define an internal style sheet?",
+        "choice1": "<style>",
+        "choice2": "<css>",
+        "choice3": "<script>",
+        "choice4": "<html>",
+        "answer": 1
+    },
+    {
+        "question": "Which property is used to change the background color?",
+        "choice1": "bgcolor",
+        "choice2": "color",
+        "choice3": "background-color",
+        "choice4": "background",
+        "answer": 3
+    },
+    {
+        "question": "How do you add a comment in CSS?",
+        "choice1": "// this is a comment",
+        "choice2": "/* this is a comment */",
+        "choice3": "' this is a comment",
+        "choice4": "<!-- this is a comment -->",
+        "answer": 2
+    },
+    {
+        "question": "Which HTML attribute is used to define inline styles?",
+        "choice1": "styles",
+        "choice2": "class",
+        "choice3": "style",
+        "choice4": "font",
+        "answer": 3
+    },
+    {
+        "question": "Which CSS property controls the text size?",
+        "choice1": "font-style",
+        "choice2": "text-size",
+        "choice3": "font-size",
+        "choice4": "text-style",
+        "answer": 3
+    },
+    {
+        "question": "How do you insert a comment in a JavaScript file?",
+        "choice1": "// this is a comment",
+        "choice2": "' this is a comment",
+        "choice3": "/* this is a comment */",
+        "choice4": "<!-- this is a comment -->",
+        "answer": 1
+    },
+    {
+        "question": "What does CSS stand for?",
+        "choice1": "Cascading Style Sheets",
+        "choice2": "Colorful Style Sheets",
+        "choice3": "Creative Style Sheets",
+        "choice4": "Computer Style Sheets",
+        "answer": 1
+    },
+    {
+        "question": "Which HTML tag is used to define a footer for a document or section?",
+        "choice1": "<bottom>",
+        "choice2": "<footer>",
+        "choice3": "<section>",
+        "choice4": "<foot>",
+        "answer": 2
+    },
+    {
+        "question": "What is the correct HTML element for inserting a line break?",
+        "choice1": "<break>",
+        "choice2": "<lb>",
+        "choice3": "<br>",
+        "choice4": "<line>",
+        "answer": 3
+    },
+    {
+        "question": "Which HTML tag is used to define an unordered list?",
+        "choice1": "<ul>",
+        "choice2": "<ol>",
+        "choice3": "<li>",
+        "choice4": "<list>",
+        "answer": 1
+    },
+    {
+        "question": "Which CSS property is used to change the text color of an element?",
+        "choice1": "fgcolor",
+        "choice2": "text-color",
+        "choice3": "color",
+        "choice4": "font-color",
+        "answer": 3
+    },
+    {
+        "question": "How do you create a function in JavaScript?",
+        "choice1": "function = myFunction()",
+        "choice2": "function:myFunction()",
+        "choice3": "function myFunction()",
+        "choice4": "create myFunction()",
+        "answer": 3
+    },
+    {
+        "question": "Which HTML element is used to specify a header for a document or section?",
+        "choice1": "<header>",
+        "choice2": "<head>",
+        "choice3": "<top>",
+        "choice4": "<section>",
+        "answer": 1
+    },
+    {
+        "question": "What is the correct CSS syntax for making all the <p> elements bold?",
+        "choice1": "p {font-weight:bold;}",
+        "choice2": "<p style='font-size:bold;'>",
+        "choice3": "p {text-size:bold;}",
+        "choice4": "<p style='text-size:bold;'>",
+        "answer": 1
+    },
+    {
+        "question": "How do you create a variable in JavaScript?",
+        "choice1": "variable myVar",
+        "choice2": "var myVar",
+        "choice3": "v myVar",
+        "choice4": "var:myVar",
+        "answer": 2
+    },
+    {
+        "question": "Which HTML tag is used to define an interactive field where users can enter data?",
+        "choice1": "<input>",
+        "choice2": "<enter>",
+        "choice3": "<field>",
+        "choice4": "<textarea>",
+        "answer": 1
+    },
+    {
+        "question": "How do you add a background color for all <h1> elements in CSS?",
+        "choice1": "h1 {background-color:#FFFFFF;}",
+        "choice2": "all.h1 {background-color:#FFFFFF;}",
+        "choice3": "h1.all {background-color:#FFFFFF;}",
+        "choice4": "h1 {bgcolor:#FFFFFF;}",
+        "answer": 1
+    },
+    {
+        "question": "Which HTML attribute is used to define inline styles?",
+        "choice1": "style",
+        "choice2": "styles",
+        "choice3": "class",
+        "choice4": "font",
+        "answer": 1
+    },
+    {
+        "question": "How do you make a numbered list in HTML?",
+        "choice1": "<ol>",
+        "choice2": "<ul>",
+        "choice3": "<list>",
+        "choice4": "<dl>",
+        "answer": 1
+    },
+    {
+        "question": "Which JavaScript event occurs when the user clicks on an HTML element?",
+        "choice1": "onchange",
+        "choice2": "onclick",
+        "choice3": "onmouseclick",
+        "choice4": "onmouseover",
+        "answer": 2
+    }
+]

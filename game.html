@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="game.css">
+    <title>Game Page</title>
+</head>
+<body>
+    <div class="container">
+        <div id="loader" class="loader"></div>
+        <div id="game" class="game hidden">
+            <div class="head">
+                <div class="head-item">
+                    <p class="head-prefix">Question:</p>
+                    <p id="progressText" style="color: rgb(0, 149, 255); font-size: 32px;" class="head-prefix"></p>
+                    <div id="progressBar">
+                        <div id="progressBarFull"></div>
+                    </div>
+                </div>
+                <div class="head-item">
+                    <p class="head-prefix">Scores:</p>
+                    <h1 class="head-main-text" id="score" style="margin: 0;">0</h1>
+                </div>
+            </div>
+            <h2 id="question"></h2>
+            <div class="opt">
+                <p class="blue">A</p>
+                <p class="Choice-text" data-number="1"></p>
+            </div>
+            <div class="opt">
+                <p class="blue">B</p>
+                <p class="Choice-text" data-number="2"></p>
+            </div>
+            <div class="opt">
+                <p class="blue">C</p>
+                <p class="Choice-text" data-number="3"></p>
+            </div>
+            <div class="opt">
+                <p class="blue">D</p>
+                <p class="Choice-text" data-number="4"></p>
+            </div>
+        </div>
+    </div>
+    <script src="game.js"></script>
+</body>
+</html>
